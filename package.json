@@ -1,0 +1,23 @@
+{
+  "name": "trirex",
+  "version": "1.0.0",
+  "description": "Le recyclage est notre objectif",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Equipe 3",
+  "license": "ISC",
+  "devDependencies": {
+    "@vue/cli": "^3.0.0-rc.2"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChRachou/trirex.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ChRachou/trirex/issues"
+  },
+  "homepage": "https://github.com/ChRachou/trirex#readme"
+}
